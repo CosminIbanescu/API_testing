@@ -35,7 +35,7 @@ api.openweathermap.org/data/2.5/forecast?lat=43.000000&lon=-75.000000&appid=2cb2
 Created an api request to obtain the New York city temperature in celsius grades by geographic coordonates. 
 
 **Description:** 
-The endpoint is formed using two parameters according to the API documentation. Parameters are: zip and metric. The zip paramater is used to specify the city by zipcode. and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. 
+The endpoint is formed using two parameters according to the API documentation. Parameters are: zip and metric. The zip paramater is used to specify the city by zipcode and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. 
 
 **Parameters and values:** 
 zip = 10001, units=metic.   
