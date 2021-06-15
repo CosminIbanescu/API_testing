@@ -21,7 +21,7 @@ q = NewYork, units = metric.
 Created an api request to obtain the New York city temperature in celsius grades by geographic coordonates. 
 
 **Description:** 
-The endpoint is formed using three parameters according to the API documentation. Parameters are: lat for latitude, lon for longitude and metric. The lat and lon parameters specify the city coordonates (New York) and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. 
+The endpoint is formed using three parameters. Parameters are: lat for latitude, lon for longitude and metric. The lat and lon parameters specify the city coordonates (New York) and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. 
 
 **Parameters:** 
 lat = 43, lon=  -75, units = metric.  
@@ -35,7 +35,7 @@ api.openweathermap.org/data/2.5/forecast?lat=43.000000&lon=-75.000000&appid=2cb2
 Created an api request to obtain the New York city temperature in celsius grades by geographic coordonates. 
 
 **Description:** 
-The endpoint is formed using three parameters according to the API documentation. Parameters are: zip and metric. The zip paramater is used to specify the city by zipcode and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. The lang parameter is used to diplay API response in romanian language.  
+The endpoint is formed using three parameters. Parameters are: zip and metric. The zip paramater is used to specify the city by zipcode and units parameter is used for temperature value. Metric is a unit of measure to display temperature in Celsius grades. The lang parameter is used to diplay API response in romanian language.  
 
 **Parameters and values:** 
 zip = 10001, units = metic, lang = ro. 
