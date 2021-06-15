@@ -14,7 +14,7 @@ The endpoint is formed using three parameters. Parameters are: zip, metric and l
 
 **Parameters and values:** 
 
-zip = 10001, units = metic, lang = ro. 
+zip = 10001, units = metric, lang = ro. 
 
 **Endpoint:** 
 
